@@ -1,4 +1,4 @@
-<h1>Hola, my name is Carlos! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cloud Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Full Time Techy</a></h1>
+<h1>Hola, my name is Carlos! <br/><a href="https://github.com/joshmadakor1">Information Security Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cloud Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Full Time Techy</a></h1>
 
 <h2>Cloud Projects:</h2>
 
