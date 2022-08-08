@@ -1,72 +1,23 @@
-<h1>Hola, my name is Carlos! <br/><a href="https://github.com/joshmadakor1">Information Security Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cloud Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Full Time Techy</a></h1>
+<h1 align="center">Hello World, my name is Jose Carlos Moreno</h1>
+<h3 align="center">Information Security Analyst | Aspring Cloud Professional | Full-Time Techy | On a mission</h3>
 
-<h2>Cloud Projects:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberrooster&label=Profile%20views&color=0e75b6&style=flat" alt="cyberrooster" /> </p>
 
-- <b>Cloud Resume Challenge</b>
-  - [Hosting my website 100% on the AWS Cloud](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hosting my website 100% on the Azure Cloud](https://github.com/joshmadakor1/Algorithms-Practice)
+- 🔭 I’m currently working on **Database Administration**
 
-<h2>Cybersecurity Projects:</h2>
+- 📫 How to reach me **cmor3@protonmail.com**
 
-- <b>Azure Sentinel Map with Live Cyber Attacks</b>
-  - [SIEM Practice with Azure Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Nessus - Vulnerability Management</b>
-  - [Practice with Nessus SIEM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Active Directory Home Lab</b>
-  - [Home Lab Setup | Add Users with Powershell](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Keylogger - Send Emails</b>
-  - [Send Emails by Creating this Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/carlosondevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlosondevops" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jose carlos moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose carlos moreno" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h2>Professional Certifications:</h2>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/carlosondevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="carlosondevops" /></a></p><br><br>
 
-- <b>AWS Certified Cloud Practitioner</b>
-- <b>AWS SysOps Administration - Associate (in-progress)</b> 
-- <b>Microsoft Certified: Azure Fundamentals</b>
-- <b>Cisco CCNA Routing & Switching</b>
-- <b>CompTIA Security+</b>
-- <b>CompTIA Network+</b>
-- <b>CompTIA A+</b>
-- <b>LPI Linux Essentials (in-progress)</b>
-- <b>PMI CAPM (in-progress)</b>
-- <b>ITIL - Foundation Certification (in-progress)</b>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberrooster&show_icons=true&locale=en&layout=compact" alt="cyberrooster" /></p>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
